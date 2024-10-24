@@ -1,0 +1,6 @@
+<resources>
+    <color name="primary_color">#5C63D6</color> <!-- Ví dụ màu cam đậm -->
+    <color name="white">#FFFFFF</color> <!-- Màu trắng -->
+    <color name="black">#000000</color>
+    <color name="gray">#f8f8f8</color>
+</resources>
